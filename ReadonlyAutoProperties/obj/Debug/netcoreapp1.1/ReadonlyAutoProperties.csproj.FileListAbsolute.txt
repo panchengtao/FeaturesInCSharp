@@ -1,0 +1,8 @@
+D:\visual studio 2017\Projects\FeatureInCSharp\ReadonlyAutoProperties\bin\Debug\netcoreapp1.1\ReadonlyAutoProperties.deps.json
+D:\visual studio 2017\Projects\FeatureInCSharp\ReadonlyAutoProperties\bin\Debug\netcoreapp1.1\ReadonlyAutoProperties.runtimeconfig.json
+D:\visual studio 2017\Projects\FeatureInCSharp\ReadonlyAutoProperties\bin\Debug\netcoreapp1.1\ReadonlyAutoProperties.runtimeconfig.dev.json
+D:\visual studio 2017\Projects\FeatureInCSharp\ReadonlyAutoProperties\bin\Debug\netcoreapp1.1\ReadonlyAutoProperties.dll
+D:\visual studio 2017\Projects\FeatureInCSharp\ReadonlyAutoProperties\bin\Debug\netcoreapp1.1\ReadonlyAutoProperties.pdb
+D:\visual studio 2017\Projects\FeatureInCSharp\ReadonlyAutoProperties\obj\Debug\netcoreapp1.1\ReadonlyAutoProperties.AssemblyInfo.cs
+D:\visual studio 2017\Projects\FeatureInCSharp\ReadonlyAutoProperties\obj\Debug\netcoreapp1.1\ReadonlyAutoProperties.dll
+D:\visual studio 2017\Projects\FeatureInCSharp\ReadonlyAutoProperties\obj\Debug\netcoreapp1.1\ReadonlyAutoProperties.pdb

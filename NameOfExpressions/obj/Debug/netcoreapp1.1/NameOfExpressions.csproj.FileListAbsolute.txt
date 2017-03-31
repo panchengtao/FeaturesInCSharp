@@ -1,0 +1,9 @@
+D:\visual studio 2017\Projects\FeatureInCSharp\NameOfExpressions\bin\Debug\netcoreapp1.1\NameOfExpressions.deps.json
+D:\visual studio 2017\Projects\FeatureInCSharp\NameOfExpressions\bin\Debug\netcoreapp1.1\NameOfExpressions.runtimeconfig.json
+D:\visual studio 2017\Projects\FeatureInCSharp\NameOfExpressions\bin\Debug\netcoreapp1.1\NameOfExpressions.runtimeconfig.dev.json
+D:\visual studio 2017\Projects\FeatureInCSharp\NameOfExpressions\bin\Debug\netcoreapp1.1\NameOfExpressions.dll
+D:\visual studio 2017\Projects\FeatureInCSharp\NameOfExpressions\bin\Debug\netcoreapp1.1\NameOfExpressions.pdb
+D:\visual studio 2017\Projects\FeatureInCSharp\NameOfExpressions\obj\Debug\netcoreapp1.1\NameOfExpressions.csprojResolveAssemblyReference.cache
+D:\visual studio 2017\Projects\FeatureInCSharp\NameOfExpressions\obj\Debug\netcoreapp1.1\NameOfExpressions.AssemblyInfo.cs
+D:\visual studio 2017\Projects\FeatureInCSharp\NameOfExpressions\obj\Debug\netcoreapp1.1\NameOfExpressions.dll
+D:\visual studio 2017\Projects\FeatureInCSharp\NameOfExpressions\obj\Debug\netcoreapp1.1\NameOfExpressions.pdb

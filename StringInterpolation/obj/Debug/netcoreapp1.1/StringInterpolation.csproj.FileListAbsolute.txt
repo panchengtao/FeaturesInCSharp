@@ -1,0 +1,9 @@
+D:\visual studio 2017\Projects\FeatureInCSharp\StringInterpolation\bin\Debug\netcoreapp1.1\StringInterpolation.deps.json
+D:\visual studio 2017\Projects\FeatureInCSharp\StringInterpolation\bin\Debug\netcoreapp1.1\StringInterpolation.runtimeconfig.json
+D:\visual studio 2017\Projects\FeatureInCSharp\StringInterpolation\bin\Debug\netcoreapp1.1\StringInterpolation.runtimeconfig.dev.json
+D:\visual studio 2017\Projects\FeatureInCSharp\StringInterpolation\bin\Debug\netcoreapp1.1\StringInterpolation.dll
+D:\visual studio 2017\Projects\FeatureInCSharp\StringInterpolation\bin\Debug\netcoreapp1.1\StringInterpolation.pdb
+D:\visual studio 2017\Projects\FeatureInCSharp\StringInterpolation\obj\Debug\netcoreapp1.1\StringInterpolation.AssemblyInfo.cs
+D:\visual studio 2017\Projects\FeatureInCSharp\StringInterpolation\obj\Debug\netcoreapp1.1\StringInterpolation.dll
+D:\visual studio 2017\Projects\FeatureInCSharp\StringInterpolation\obj\Debug\netcoreapp1.1\StringInterpolation.pdb
+D:\visual studio 2017\Projects\FeatureInCSharp\StringInterpolation\obj\Debug\netcoreapp1.1\StringInterpolation.csprojResolveAssemblyReference.cache

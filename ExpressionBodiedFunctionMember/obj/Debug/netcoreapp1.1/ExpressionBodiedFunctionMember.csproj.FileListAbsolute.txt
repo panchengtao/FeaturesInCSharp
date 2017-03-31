@@ -1,0 +1,8 @@
+D:\visual studio 2017\Projects\FeatureInCSharp\ExpressionBodiedFunctionMember\bin\Debug\netcoreapp1.1\ExpressionBodiedFunctionMember.deps.json
+D:\visual studio 2017\Projects\FeatureInCSharp\ExpressionBodiedFunctionMember\bin\Debug\netcoreapp1.1\ExpressionBodiedFunctionMember.runtimeconfig.json
+D:\visual studio 2017\Projects\FeatureInCSharp\ExpressionBodiedFunctionMember\bin\Debug\netcoreapp1.1\ExpressionBodiedFunctionMember.runtimeconfig.dev.json
+D:\visual studio 2017\Projects\FeatureInCSharp\ExpressionBodiedFunctionMember\bin\Debug\netcoreapp1.1\ExpressionBodiedFunctionMember.dll
+D:\visual studio 2017\Projects\FeatureInCSharp\ExpressionBodiedFunctionMember\bin\Debug\netcoreapp1.1\ExpressionBodiedFunctionMember.pdb
+D:\visual studio 2017\Projects\FeatureInCSharp\ExpressionBodiedFunctionMember\obj\Debug\netcoreapp1.1\ExpressionBodiedFunctionMember.AssemblyInfo.cs
+D:\visual studio 2017\Projects\FeatureInCSharp\ExpressionBodiedFunctionMember\obj\Debug\netcoreapp1.1\ExpressionBodiedFunctionMember.dll
+D:\visual studio 2017\Projects\FeatureInCSharp\ExpressionBodiedFunctionMember\obj\Debug\netcoreapp1.1\ExpressionBodiedFunctionMember.pdb

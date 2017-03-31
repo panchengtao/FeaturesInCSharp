@@ -1,0 +1,8 @@
+D:\visual studio 2017\Projects\FeatureInCSharp\IndexInitializer\bin\Debug\netcoreapp1.1\IndexInitializer.deps.json
+D:\visual studio 2017\Projects\FeatureInCSharp\IndexInitializer\bin\Debug\netcoreapp1.1\IndexInitializer.runtimeconfig.json
+D:\visual studio 2017\Projects\FeatureInCSharp\IndexInitializer\bin\Debug\netcoreapp1.1\IndexInitializer.runtimeconfig.dev.json
+D:\visual studio 2017\Projects\FeatureInCSharp\IndexInitializer\bin\Debug\netcoreapp1.1\IndexInitializer.dll
+D:\visual studio 2017\Projects\FeatureInCSharp\IndexInitializer\bin\Debug\netcoreapp1.1\IndexInitializer.pdb
+D:\visual studio 2017\Projects\FeatureInCSharp\IndexInitializer\obj\Debug\netcoreapp1.1\IndexInitializer.AssemblyInfo.cs
+D:\visual studio 2017\Projects\FeatureInCSharp\IndexInitializer\obj\Debug\netcoreapp1.1\IndexInitializer.dll
+D:\visual studio 2017\Projects\FeatureInCSharp\IndexInitializer\obj\Debug\netcoreapp1.1\IndexInitializer.pdb

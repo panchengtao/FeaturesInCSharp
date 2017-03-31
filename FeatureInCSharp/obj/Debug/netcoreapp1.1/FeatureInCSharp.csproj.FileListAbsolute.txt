@@ -1,0 +1,9 @@
+D:\visual studio 2017\Projects\FeatureInCSharp\FeatureInCSharp\bin\Debug\netcoreapp1.1\FeatureInCSharp.deps.json
+D:\visual studio 2017\Projects\FeatureInCSharp\FeatureInCSharp\bin\Debug\netcoreapp1.1\FeatureInCSharp.runtimeconfig.json
+D:\visual studio 2017\Projects\FeatureInCSharp\FeatureInCSharp\bin\Debug\netcoreapp1.1\FeatureInCSharp.runtimeconfig.dev.json
+D:\visual studio 2017\Projects\FeatureInCSharp\FeatureInCSharp\bin\Debug\netcoreapp1.1\FeatureInCSharp.dll
+D:\visual studio 2017\Projects\FeatureInCSharp\FeatureInCSharp\bin\Debug\netcoreapp1.1\FeatureInCSharp.pdb
+D:\visual studio 2017\Projects\FeatureInCSharp\FeatureInCSharp\obj\Debug\netcoreapp1.1\FeatureInCSharp.csprojResolveAssemblyReference.cache
+D:\visual studio 2017\Projects\FeatureInCSharp\FeatureInCSharp\obj\Debug\netcoreapp1.1\FeatureInCSharp.AssemblyInfo.cs
+D:\visual studio 2017\Projects\FeatureInCSharp\FeatureInCSharp\obj\Debug\netcoreapp1.1\FeatureInCSharp.dll
+D:\visual studio 2017\Projects\FeatureInCSharp\FeatureInCSharp\obj\Debug\netcoreapp1.1\FeatureInCSharp.pdb
