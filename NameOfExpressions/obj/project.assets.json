@@ -7080,10 +7080,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\visual studio 2017\\Projects\\FeatureInCSharp\\NameOfExpressions\\NameOfExpressions.csproj",
+      "projectUniqueName": "D:\\FeatureInCSharp\\NameOfExpressions\\NameOfExpressions.csproj",
       "projectName": "NameOfExpressions",
-      "projectPath": "D:\\visual studio 2017\\Projects\\FeatureInCSharp\\NameOfExpressions\\NameOfExpressions.csproj",
-      "outputPath": "D:\\visual studio 2017\\Projects\\FeatureInCSharp\\NameOfExpressions\\obj\\",
+      "projectPath": "D:\\FeatureInCSharp\\NameOfExpressions\\NameOfExpressions.csproj",
+      "outputPath": "D:\\FeatureInCSharp\\NameOfExpressions\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

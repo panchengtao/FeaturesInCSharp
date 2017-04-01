@@ -1,0 +1,9 @@
+D:\FeatureInCSharp\RefLocalsAndReturns\bin\Debug\netcoreapp1.1\RefLocalsAndReturns.deps.json
+D:\FeatureInCSharp\RefLocalsAndReturns\bin\Debug\netcoreapp1.1\RefLocalsAndReturns.runtimeconfig.json
+D:\FeatureInCSharp\RefLocalsAndReturns\bin\Debug\netcoreapp1.1\RefLocalsAndReturns.runtimeconfig.dev.json
+D:\FeatureInCSharp\RefLocalsAndReturns\bin\Debug\netcoreapp1.1\RefLocalsAndReturns.dll
+D:\FeatureInCSharp\RefLocalsAndReturns\obj\Debug\netcoreapp1.1\RefLocalsAndReturns.AssemblyInfo.cs
+D:\FeatureInCSharp\RefLocalsAndReturns\bin\Debug\netcoreapp1.1\RefLocalsAndReturns.pdb
+D:\FeatureInCSharp\RefLocalsAndReturns\obj\Debug\netcoreapp1.1\RefLocalsAndReturns.dll
+D:\FeatureInCSharp\RefLocalsAndReturns\obj\Debug\netcoreapp1.1\RefLocalsAndReturns.pdb
+D:\FeatureInCSharp\RefLocalsAndReturns\obj\Debug\netcoreapp1.1\RefLocalsAndReturns.csprojResolveAssemblyReference.cache

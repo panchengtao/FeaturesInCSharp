@@ -7080,10 +7080,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\visual studio 2017\\Projects\\FeatureInCSharp\\IndexInitializer\\IndexInitializer.csproj",
+      "projectUniqueName": "D:\\FeatureInCSharp\\IndexInitializer\\IndexInitializer.csproj",
       "projectName": "IndexInitializer",
-      "projectPath": "D:\\visual studio 2017\\Projects\\FeatureInCSharp\\IndexInitializer\\IndexInitializer.csproj",
-      "outputPath": "D:\\visual studio 2017\\Projects\\FeatureInCSharp\\IndexInitializer\\obj\\",
+      "projectPath": "D:\\FeatureInCSharp\\IndexInitializer\\IndexInitializer.csproj",
+      "outputPath": "D:\\FeatureInCSharp\\IndexInitializer\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

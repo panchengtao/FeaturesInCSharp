@@ -6,3 +6,11 @@ D:\visual studio 2017\Projects\FeatureInCSharp\AwaitInCatchAndFinallyBlocks\bin\
 D:\visual studio 2017\Projects\FeatureInCSharp\AwaitInCatchAndFinallyBlocks\obj\Debug\netcoreapp1.1\AwaitInCatchAndFinallyBlocks.AssemblyInfo.cs
 D:\visual studio 2017\Projects\FeatureInCSharp\AwaitInCatchAndFinallyBlocks\obj\Debug\netcoreapp1.1\AwaitInCatchAndFinallyBlocks.dll
 D:\visual studio 2017\Projects\FeatureInCSharp\AwaitInCatchAndFinallyBlocks\obj\Debug\netcoreapp1.1\AwaitInCatchAndFinallyBlocks.pdb
+D:\FeatureInCSharp\AwaitInCatchAndFinallyBlocks\bin\Debug\netcoreapp1.1\AwaitInCatchAndFinallyBlocks.deps.json
+D:\FeatureInCSharp\AwaitInCatchAndFinallyBlocks\bin\Debug\netcoreapp1.1\AwaitInCatchAndFinallyBlocks.runtimeconfig.json
+D:\FeatureInCSharp\AwaitInCatchAndFinallyBlocks\bin\Debug\netcoreapp1.1\AwaitInCatchAndFinallyBlocks.runtimeconfig.dev.json
+D:\FeatureInCSharp\AwaitInCatchAndFinallyBlocks\bin\Debug\netcoreapp1.1\AwaitInCatchAndFinallyBlocks.dll
+D:\FeatureInCSharp\AwaitInCatchAndFinallyBlocks\bin\Debug\netcoreapp1.1\AwaitInCatchAndFinallyBlocks.pdb
+D:\FeatureInCSharp\AwaitInCatchAndFinallyBlocks\obj\Debug\netcoreapp1.1\AwaitInCatchAndFinallyBlocks.AssemblyInfo.cs
+D:\FeatureInCSharp\AwaitInCatchAndFinallyBlocks\obj\Debug\netcoreapp1.1\AwaitInCatchAndFinallyBlocks.dll
+D:\FeatureInCSharp\AwaitInCatchAndFinallyBlocks\obj\Debug\netcoreapp1.1\AwaitInCatchAndFinallyBlocks.pdb

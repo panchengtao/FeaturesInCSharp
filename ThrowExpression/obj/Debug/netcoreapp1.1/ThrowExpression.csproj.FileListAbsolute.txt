@@ -1,0 +1,8 @@
+D:\FeatureInCSharp\ThrowExpression\bin\Debug\netcoreapp1.1\ThrowExpression.deps.json
+D:\FeatureInCSharp\ThrowExpression\bin\Debug\netcoreapp1.1\ThrowExpression.runtimeconfig.json
+D:\FeatureInCSharp\ThrowExpression\bin\Debug\netcoreapp1.1\ThrowExpression.runtimeconfig.dev.json
+D:\FeatureInCSharp\ThrowExpression\bin\Debug\netcoreapp1.1\ThrowExpression.dll
+D:\FeatureInCSharp\ThrowExpression\bin\Debug\netcoreapp1.1\ThrowExpression.pdb
+D:\FeatureInCSharp\ThrowExpression\obj\Debug\netcoreapp1.1\ThrowExpression.AssemblyInfo.cs
+D:\FeatureInCSharp\ThrowExpression\obj\Debug\netcoreapp1.1\ThrowExpression.dll
+D:\FeatureInCSharp\ThrowExpression\obj\Debug\netcoreapp1.1\ThrowExpression.pdb

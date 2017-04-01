@@ -1,0 +1,8 @@
+D:\FeatureInCSharp\OutVariables\bin\Debug\netcoreapp1.1\OutVariables.deps.json
+D:\FeatureInCSharp\OutVariables\bin\Debug\netcoreapp1.1\OutVariables.runtimeconfig.json
+D:\FeatureInCSharp\OutVariables\bin\Debug\netcoreapp1.1\OutVariables.runtimeconfig.dev.json
+D:\FeatureInCSharp\OutVariables\bin\Debug\netcoreapp1.1\OutVariables.dll
+D:\FeatureInCSharp\OutVariables\bin\Debug\netcoreapp1.1\OutVariables.pdb
+D:\FeatureInCSharp\OutVariables\obj\Debug\netcoreapp1.1\OutVariables.AssemblyInfo.cs
+D:\FeatureInCSharp\OutVariables\obj\Debug\netcoreapp1.1\OutVariables.dll
+D:\FeatureInCSharp\OutVariables\obj\Debug\netcoreapp1.1\OutVariables.pdb

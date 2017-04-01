@@ -7,3 +7,12 @@ D:\visual studio 2017\Projects\FeatureInCSharp\StringInterpolation\obj\Debug\net
 D:\visual studio 2017\Projects\FeatureInCSharp\StringInterpolation\obj\Debug\netcoreapp1.1\StringInterpolation.dll
 D:\visual studio 2017\Projects\FeatureInCSharp\StringInterpolation\obj\Debug\netcoreapp1.1\StringInterpolation.pdb
 D:\visual studio 2017\Projects\FeatureInCSharp\StringInterpolation\obj\Debug\netcoreapp1.1\StringInterpolation.csprojResolveAssemblyReference.cache
+D:\FeatureInCSharp\StringInterpolation\bin\Debug\netcoreapp1.1\StringInterpolation.deps.json
+D:\FeatureInCSharp\StringInterpolation\bin\Debug\netcoreapp1.1\StringInterpolation.runtimeconfig.json
+D:\FeatureInCSharp\StringInterpolation\bin\Debug\netcoreapp1.1\StringInterpolation.runtimeconfig.dev.json
+D:\FeatureInCSharp\StringInterpolation\bin\Debug\netcoreapp1.1\StringInterpolation.dll
+D:\FeatureInCSharp\StringInterpolation\bin\Debug\netcoreapp1.1\StringInterpolation.pdb
+D:\FeatureInCSharp\StringInterpolation\obj\Debug\netcoreapp1.1\StringInterpolation.csprojResolveAssemblyReference.cache
+D:\FeatureInCSharp\StringInterpolation\obj\Debug\netcoreapp1.1\StringInterpolation.AssemblyInfo.cs
+D:\FeatureInCSharp\StringInterpolation\obj\Debug\netcoreapp1.1\StringInterpolation.dll
+D:\FeatureInCSharp\StringInterpolation\obj\Debug\netcoreapp1.1\StringInterpolation.pdb

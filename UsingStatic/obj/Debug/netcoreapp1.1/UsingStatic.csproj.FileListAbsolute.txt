@@ -6,3 +6,11 @@ D:\visual studio 2017\Projects\FeatureInCSharp\UsingStatic\bin\Debug\netcoreapp1
 D:\visual studio 2017\Projects\FeatureInCSharp\UsingStatic\obj\Debug\netcoreapp1.1\UsingStatic.AssemblyInfo.cs
 D:\visual studio 2017\Projects\FeatureInCSharp\UsingStatic\obj\Debug\netcoreapp1.1\UsingStatic.dll
 D:\visual studio 2017\Projects\FeatureInCSharp\UsingStatic\obj\Debug\netcoreapp1.1\UsingStatic.pdb
+D:\FeatureInCSharp\UsingStatic\bin\Debug\netcoreapp1.1\UsingStatic.deps.json
+D:\FeatureInCSharp\UsingStatic\bin\Debug\netcoreapp1.1\UsingStatic.runtimeconfig.json
+D:\FeatureInCSharp\UsingStatic\bin\Debug\netcoreapp1.1\UsingStatic.runtimeconfig.dev.json
+D:\FeatureInCSharp\UsingStatic\bin\Debug\netcoreapp1.1\UsingStatic.dll
+D:\FeatureInCSharp\UsingStatic\bin\Debug\netcoreapp1.1\UsingStatic.pdb
+D:\FeatureInCSharp\UsingStatic\obj\Debug\netcoreapp1.1\UsingStatic.AssemblyInfo.cs
+D:\FeatureInCSharp\UsingStatic\obj\Debug\netcoreapp1.1\UsingStatic.dll
+D:\FeatureInCSharp\UsingStatic\obj\Debug\netcoreapp1.1\UsingStatic.pdb

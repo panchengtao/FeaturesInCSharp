@@ -7080,10 +7080,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\visual studio 2017\\Projects\\FeatureInCSharp\\StringInterpolation\\StringInterpolation.csproj",
+      "projectUniqueName": "D:\\FeatureInCSharp\\StringInterpolation\\StringInterpolation.csproj",
       "projectName": "StringInterpolation",
-      "projectPath": "D:\\visual studio 2017\\Projects\\FeatureInCSharp\\StringInterpolation\\StringInterpolation.csproj",
-      "outputPath": "D:\\visual studio 2017\\Projects\\FeatureInCSharp\\StringInterpolation\\obj\\",
+      "projectPath": "D:\\FeatureInCSharp\\StringInterpolation\\StringInterpolation.csproj",
+      "outputPath": "D:\\FeatureInCSharp\\StringInterpolation\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

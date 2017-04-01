@@ -7,3 +7,12 @@ D:\visual studio 2017\Projects\FeatureInCSharp\AutoPropertyInitializer\obj\Debug
 D:\visual studio 2017\Projects\FeatureInCSharp\AutoPropertyInitializer\obj\Debug\netcoreapp1.1\AutoPropertyInitializer.AssemblyInfo.cs
 D:\visual studio 2017\Projects\FeatureInCSharp\AutoPropertyInitializer\obj\Debug\netcoreapp1.1\AutoPropertyInitializer.dll
 D:\visual studio 2017\Projects\FeatureInCSharp\AutoPropertyInitializer\obj\Debug\netcoreapp1.1\AutoPropertyInitializer.pdb
+D:\FeatureInCSharp\AutoPropertyInitializer\bin\Debug\netcoreapp1.1\AutoPropertyInitializer.deps.json
+D:\FeatureInCSharp\AutoPropertyInitializer\bin\Debug\netcoreapp1.1\AutoPropertyInitializer.runtimeconfig.json
+D:\FeatureInCSharp\AutoPropertyInitializer\bin\Debug\netcoreapp1.1\AutoPropertyInitializer.runtimeconfig.dev.json
+D:\FeatureInCSharp\AutoPropertyInitializer\bin\Debug\netcoreapp1.1\AutoPropertyInitializer.dll
+D:\FeatureInCSharp\AutoPropertyInitializer\bin\Debug\netcoreapp1.1\AutoPropertyInitializer.pdb
+D:\FeatureInCSharp\AutoPropertyInitializer\obj\Debug\netcoreapp1.1\AutoPropertyInitializer.csprojResolveAssemblyReference.cache
+D:\FeatureInCSharp\AutoPropertyInitializer\obj\Debug\netcoreapp1.1\AutoPropertyInitializer.AssemblyInfo.cs
+D:\FeatureInCSharp\AutoPropertyInitializer\obj\Debug\netcoreapp1.1\AutoPropertyInitializer.dll
+D:\FeatureInCSharp\AutoPropertyInitializer\obj\Debug\netcoreapp1.1\AutoPropertyInitializer.pdb

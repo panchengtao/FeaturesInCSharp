@@ -1,0 +1,9 @@
+D:\FeatureInCSharp\PatternMatching\bin\Debug\netcoreapp1.1\PatternMatching.deps.json
+D:\FeatureInCSharp\PatternMatching\bin\Debug\netcoreapp1.1\PatternMatching.runtimeconfig.json
+D:\FeatureInCSharp\PatternMatching\bin\Debug\netcoreapp1.1\PatternMatching.runtimeconfig.dev.json
+D:\FeatureInCSharp\PatternMatching\bin\Debug\netcoreapp1.1\PatternMatching.dll
+D:\FeatureInCSharp\PatternMatching\bin\Debug\netcoreapp1.1\PatternMatching.pdb
+D:\FeatureInCSharp\PatternMatching\obj\Debug\netcoreapp1.1\PatternMatching.csprojResolveAssemblyReference.cache
+D:\FeatureInCSharp\PatternMatching\obj\Debug\netcoreapp1.1\PatternMatching.AssemblyInfo.cs
+D:\FeatureInCSharp\PatternMatching\obj\Debug\netcoreapp1.1\PatternMatching.dll
+D:\FeatureInCSharp\PatternMatching\obj\Debug\netcoreapp1.1\PatternMatching.pdb

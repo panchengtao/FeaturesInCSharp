@@ -7080,10 +7080,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\visual studio 2017\\Projects\\FeatureInCSharp\\ReadonlyAutoProperties\\ReadonlyAutoProperties.csproj",
+      "projectUniqueName": "D:\\FeatureInCSharp\\ReadonlyAutoProperties\\ReadonlyAutoProperties.csproj",
       "projectName": "ReadonlyAutoProperties",
-      "projectPath": "D:\\visual studio 2017\\Projects\\FeatureInCSharp\\ReadonlyAutoProperties\\ReadonlyAutoProperties.csproj",
-      "outputPath": "D:\\visual studio 2017\\Projects\\FeatureInCSharp\\ReadonlyAutoProperties\\obj\\",
+      "projectPath": "D:\\FeatureInCSharp\\ReadonlyAutoProperties\\ReadonlyAutoProperties.csproj",
+      "outputPath": "D:\\FeatureInCSharp\\ReadonlyAutoProperties\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

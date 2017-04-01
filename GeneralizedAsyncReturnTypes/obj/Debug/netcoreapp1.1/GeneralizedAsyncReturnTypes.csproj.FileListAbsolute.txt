@@ -1,0 +1,8 @@
+D:\FeatureInCSharp\GeneralizedAsyncReturnTypes\bin\Debug\netcoreapp1.1\GeneralizedAsyncReturnTypes.deps.json
+D:\FeatureInCSharp\GeneralizedAsyncReturnTypes\bin\Debug\netcoreapp1.1\GeneralizedAsyncReturnTypes.runtimeconfig.json
+D:\FeatureInCSharp\GeneralizedAsyncReturnTypes\bin\Debug\netcoreapp1.1\GeneralizedAsyncReturnTypes.runtimeconfig.dev.json
+D:\FeatureInCSharp\GeneralizedAsyncReturnTypes\bin\Debug\netcoreapp1.1\GeneralizedAsyncReturnTypes.dll
+D:\FeatureInCSharp\GeneralizedAsyncReturnTypes\obj\Debug\netcoreapp1.1\GeneralizedAsyncReturnTypes.AssemblyInfo.cs
+D:\FeatureInCSharp\GeneralizedAsyncReturnTypes\bin\Debug\netcoreapp1.1\GeneralizedAsyncReturnTypes.pdb
+D:\FeatureInCSharp\GeneralizedAsyncReturnTypes\obj\Debug\netcoreapp1.1\GeneralizedAsyncReturnTypes.dll
+D:\FeatureInCSharp\GeneralizedAsyncReturnTypes\obj\Debug\netcoreapp1.1\GeneralizedAsyncReturnTypes.pdb

@@ -7080,10 +7080,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\visual studio 2017\\Projects\\FeatureInCSharp\\AutoPropertyInitializer\\AutoPropertyInitializer.csproj",
+      "projectUniqueName": "D:\\FeatureInCSharp\\AutoPropertyInitializer\\AutoPropertyInitializer.csproj",
       "projectName": "AutoPropertyInitializer",
-      "projectPath": "D:\\visual studio 2017\\Projects\\FeatureInCSharp\\AutoPropertyInitializer\\AutoPropertyInitializer.csproj",
-      "outputPath": "D:\\visual studio 2017\\Projects\\FeatureInCSharp\\AutoPropertyInitializer\\obj\\",
+      "projectPath": "D:\\FeatureInCSharp\\AutoPropertyInitializer\\AutoPropertyInitializer.csproj",
+      "outputPath": "D:\\FeatureInCSharp\\AutoPropertyInitializer\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

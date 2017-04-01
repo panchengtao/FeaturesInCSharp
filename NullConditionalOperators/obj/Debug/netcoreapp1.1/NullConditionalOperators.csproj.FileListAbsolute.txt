@@ -7,3 +7,12 @@ D:\visual studio 2017\Projects\FeatureInCSharp\NullConditionalOperators\obj\Debu
 D:\visual studio 2017\Projects\FeatureInCSharp\NullConditionalOperators\obj\Debug\netcoreapp1.1\NullConditionalOperators.AssemblyInfo.cs
 D:\visual studio 2017\Projects\FeatureInCSharp\NullConditionalOperators\obj\Debug\netcoreapp1.1\NullConditionalOperators.dll
 D:\visual studio 2017\Projects\FeatureInCSharp\NullConditionalOperators\obj\Debug\netcoreapp1.1\NullConditionalOperators.pdb
+D:\FeatureInCSharp\NullConditionalOperators\bin\Debug\netcoreapp1.1\NullConditionalOperators.deps.json
+D:\FeatureInCSharp\NullConditionalOperators\bin\Debug\netcoreapp1.1\NullConditionalOperators.runtimeconfig.json
+D:\FeatureInCSharp\NullConditionalOperators\bin\Debug\netcoreapp1.1\NullConditionalOperators.runtimeconfig.dev.json
+D:\FeatureInCSharp\NullConditionalOperators\bin\Debug\netcoreapp1.1\NullConditionalOperators.dll
+D:\FeatureInCSharp\NullConditionalOperators\bin\Debug\netcoreapp1.1\NullConditionalOperators.pdb
+D:\FeatureInCSharp\NullConditionalOperators\obj\Debug\netcoreapp1.1\NullConditionalOperators.csprojResolveAssemblyReference.cache
+D:\FeatureInCSharp\NullConditionalOperators\obj\Debug\netcoreapp1.1\NullConditionalOperators.AssemblyInfo.cs
+D:\FeatureInCSharp\NullConditionalOperators\obj\Debug\netcoreapp1.1\NullConditionalOperators.dll
+D:\FeatureInCSharp\NullConditionalOperators\obj\Debug\netcoreapp1.1\NullConditionalOperators.pdb

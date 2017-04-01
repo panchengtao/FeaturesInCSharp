@@ -7080,10 +7080,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\visual studio 2017\\Projects\\FeatureInCSharp\\FeatureInCSharp\\FeatureInCSharp.csproj",
+      "projectUniqueName": "D:\\FeatureInCSharp\\FeatureInCSharp\\FeatureInCSharp.csproj",
       "projectName": "FeatureInCSharp",
-      "projectPath": "D:\\visual studio 2017\\Projects\\FeatureInCSharp\\FeatureInCSharp\\FeatureInCSharp.csproj",
-      "outputPath": "D:\\visual studio 2017\\Projects\\FeatureInCSharp\\FeatureInCSharp\\obj\\",
+      "projectPath": "D:\\FeatureInCSharp\\FeatureInCSharp\\FeatureInCSharp.csproj",
+      "outputPath": "D:\\FeatureInCSharp\\FeatureInCSharp\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

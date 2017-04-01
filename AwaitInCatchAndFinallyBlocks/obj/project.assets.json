@@ -7080,10 +7080,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\visual studio 2017\\Projects\\FeatureInCSharp\\AwaitInCatchAndFinallyBlocks\\AwaitInCatchAndFinallyBlocks.csproj",
+      "projectUniqueName": "D:\\FeatureInCSharp\\AwaitInCatchAndFinallyBlocks\\AwaitInCatchAndFinallyBlocks.csproj",
       "projectName": "AwaitInCatchAndFinallyBlocks",
-      "projectPath": "D:\\visual studio 2017\\Projects\\FeatureInCSharp\\AwaitInCatchAndFinallyBlocks\\AwaitInCatchAndFinallyBlocks.csproj",
-      "outputPath": "D:\\visual studio 2017\\Projects\\FeatureInCSharp\\AwaitInCatchAndFinallyBlocks\\obj\\",
+      "projectPath": "D:\\FeatureInCSharp\\AwaitInCatchAndFinallyBlocks\\AwaitInCatchAndFinallyBlocks.csproj",
+      "outputPath": "D:\\FeatureInCSharp\\AwaitInCatchAndFinallyBlocks\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

@@ -7,3 +7,12 @@ D:\visual studio 2017\Projects\FeatureInCSharp\NameOfExpressions\obj\Debug\netco
 D:\visual studio 2017\Projects\FeatureInCSharp\NameOfExpressions\obj\Debug\netcoreapp1.1\NameOfExpressions.AssemblyInfo.cs
 D:\visual studio 2017\Projects\FeatureInCSharp\NameOfExpressions\obj\Debug\netcoreapp1.1\NameOfExpressions.dll
 D:\visual studio 2017\Projects\FeatureInCSharp\NameOfExpressions\obj\Debug\netcoreapp1.1\NameOfExpressions.pdb
+D:\FeatureInCSharp\NameOfExpressions\bin\Debug\netcoreapp1.1\NameOfExpressions.deps.json
+D:\FeatureInCSharp\NameOfExpressions\bin\Debug\netcoreapp1.1\NameOfExpressions.runtimeconfig.json
+D:\FeatureInCSharp\NameOfExpressions\bin\Debug\netcoreapp1.1\NameOfExpressions.runtimeconfig.dev.json
+D:\FeatureInCSharp\NameOfExpressions\bin\Debug\netcoreapp1.1\NameOfExpressions.dll
+D:\FeatureInCSharp\NameOfExpressions\bin\Debug\netcoreapp1.1\NameOfExpressions.pdb
+D:\FeatureInCSharp\NameOfExpressions\obj\Debug\netcoreapp1.1\NameOfExpressions.csprojResolveAssemblyReference.cache
+D:\FeatureInCSharp\NameOfExpressions\obj\Debug\netcoreapp1.1\NameOfExpressions.AssemblyInfo.cs
+D:\FeatureInCSharp\NameOfExpressions\obj\Debug\netcoreapp1.1\NameOfExpressions.dll
+D:\FeatureInCSharp\NameOfExpressions\obj\Debug\netcoreapp1.1\NameOfExpressions.pdb

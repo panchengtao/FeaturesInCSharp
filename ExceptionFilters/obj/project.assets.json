@@ -7080,10 +7080,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\visual studio 2017\\Projects\\FeatureInCSharp\\ExceptionFilters\\ExceptionFilters.csproj",
+      "projectUniqueName": "D:\\FeatureInCSharp\\ExceptionFilters\\ExceptionFilters.csproj",
       "projectName": "ExceptionFilters",
-      "projectPath": "D:\\visual studio 2017\\Projects\\FeatureInCSharp\\ExceptionFilters\\ExceptionFilters.csproj",
-      "outputPath": "D:\\visual studio 2017\\Projects\\FeatureInCSharp\\ExceptionFilters\\obj\\",
+      "projectPath": "D:\\FeatureInCSharp\\ExceptionFilters\\ExceptionFilters.csproj",
+      "outputPath": "D:\\FeatureInCSharp\\ExceptionFilters\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

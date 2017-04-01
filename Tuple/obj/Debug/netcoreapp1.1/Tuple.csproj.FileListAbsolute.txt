@@ -1,0 +1,9 @@
+D:\FeatureInCSharp\Tuple\bin\Debug\netcoreapp1.1\Tuple.deps.json
+D:\FeatureInCSharp\Tuple\bin\Debug\netcoreapp1.1\Tuple.runtimeconfig.json
+D:\FeatureInCSharp\Tuple\bin\Debug\netcoreapp1.1\Tuple.runtimeconfig.dev.json
+D:\FeatureInCSharp\Tuple\obj\Debug\netcoreapp1.1\Tuple.csprojResolveAssemblyReference.cache
+D:\FeatureInCSharp\Tuple\obj\Debug\netcoreapp1.1\Tuple.AssemblyInfo.cs
+D:\FeatureInCSharp\Tuple\bin\Debug\netcoreapp1.1\Tuple.dll
+D:\FeatureInCSharp\Tuple\bin\Debug\netcoreapp1.1\Tuple.pdb
+D:\FeatureInCSharp\Tuple\obj\Debug\netcoreapp1.1\Tuple.dll
+D:\FeatureInCSharp\Tuple\obj\Debug\netcoreapp1.1\Tuple.pdb

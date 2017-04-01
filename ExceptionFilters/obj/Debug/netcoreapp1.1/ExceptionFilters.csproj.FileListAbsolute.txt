@@ -6,3 +6,11 @@ D:\visual studio 2017\Projects\FeatureInCSharp\ExceptionFilters\bin\Debug\netcor
 D:\visual studio 2017\Projects\FeatureInCSharp\ExceptionFilters\obj\Debug\netcoreapp1.1\ExceptionFilters.AssemblyInfo.cs
 D:\visual studio 2017\Projects\FeatureInCSharp\ExceptionFilters\obj\Debug\netcoreapp1.1\ExceptionFilters.dll
 D:\visual studio 2017\Projects\FeatureInCSharp\ExceptionFilters\obj\Debug\netcoreapp1.1\ExceptionFilters.pdb
+D:\FeatureInCSharp\ExceptionFilters\bin\Debug\netcoreapp1.1\ExceptionFilters.deps.json
+D:\FeatureInCSharp\ExceptionFilters\bin\Debug\netcoreapp1.1\ExceptionFilters.runtimeconfig.json
+D:\FeatureInCSharp\ExceptionFilters\bin\Debug\netcoreapp1.1\ExceptionFilters.runtimeconfig.dev.json
+D:\FeatureInCSharp\ExceptionFilters\bin\Debug\netcoreapp1.1\ExceptionFilters.dll
+D:\FeatureInCSharp\ExceptionFilters\bin\Debug\netcoreapp1.1\ExceptionFilters.pdb
+D:\FeatureInCSharp\ExceptionFilters\obj\Debug\netcoreapp1.1\ExceptionFilters.AssemblyInfo.cs
+D:\FeatureInCSharp\ExceptionFilters\obj\Debug\netcoreapp1.1\ExceptionFilters.dll
+D:\FeatureInCSharp\ExceptionFilters\obj\Debug\netcoreapp1.1\ExceptionFilters.pdb

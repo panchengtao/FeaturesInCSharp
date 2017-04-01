@@ -7080,10 +7080,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\visual studio 2017\\Projects\\FeatureInCSharp\\ExpressionBodiedFunctionMember\\ExpressionBodiedFunctionMember.csproj",
+      "projectUniqueName": "D:\\FeatureInCSharp\\ExpressionBodiedFunctionMember\\ExpressionBodiedFunctionMember.csproj",
       "projectName": "ExpressionBodiedFunctionMember",
-      "projectPath": "D:\\visual studio 2017\\Projects\\FeatureInCSharp\\ExpressionBodiedFunctionMember\\ExpressionBodiedFunctionMember.csproj",
-      "outputPath": "D:\\visual studio 2017\\Projects\\FeatureInCSharp\\ExpressionBodiedFunctionMember\\obj\\",
+      "projectPath": "D:\\FeatureInCSharp\\ExpressionBodiedFunctionMember\\ExpressionBodiedFunctionMember.csproj",
+      "outputPath": "D:\\FeatureInCSharp\\ExpressionBodiedFunctionMember\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

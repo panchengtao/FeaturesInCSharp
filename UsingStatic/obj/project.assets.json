@@ -7080,10 +7080,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\visual studio 2017\\Projects\\FeatureInCSharp\\UsingStatic\\UsingStatic.csproj",
+      "projectUniqueName": "D:\\FeatureInCSharp\\UsingStatic\\UsingStatic.csproj",
       "projectName": "UsingStatic",
-      "projectPath": "D:\\visual studio 2017\\Projects\\FeatureInCSharp\\UsingStatic\\UsingStatic.csproj",
-      "outputPath": "D:\\visual studio 2017\\Projects\\FeatureInCSharp\\UsingStatic\\obj\\",
+      "projectPath": "D:\\FeatureInCSharp\\UsingStatic\\UsingStatic.csproj",
+      "outputPath": "D:\\FeatureInCSharp\\UsingStatic\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

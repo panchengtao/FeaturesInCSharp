@@ -1,0 +1,8 @@
+D:\FeatureInCSharp\MoreExpressionBodiedMembers\bin\Debug\netcoreapp1.1\MoreExpressionBodiedMembers.deps.json
+D:\FeatureInCSharp\MoreExpressionBodiedMembers\bin\Debug\netcoreapp1.1\MoreExpressionBodiedMembers.runtimeconfig.json
+D:\FeatureInCSharp\MoreExpressionBodiedMembers\bin\Debug\netcoreapp1.1\MoreExpressionBodiedMembers.runtimeconfig.dev.json
+D:\FeatureInCSharp\MoreExpressionBodiedMembers\bin\Debug\netcoreapp1.1\MoreExpressionBodiedMembers.dll
+D:\FeatureInCSharp\MoreExpressionBodiedMembers\bin\Debug\netcoreapp1.1\MoreExpressionBodiedMembers.pdb
+D:\FeatureInCSharp\MoreExpressionBodiedMembers\obj\Debug\netcoreapp1.1\MoreExpressionBodiedMembers.AssemblyInfo.cs
+D:\FeatureInCSharp\MoreExpressionBodiedMembers\obj\Debug\netcoreapp1.1\MoreExpressionBodiedMembers.dll
+D:\FeatureInCSharp\MoreExpressionBodiedMembers\obj\Debug\netcoreapp1.1\MoreExpressionBodiedMembers.pdb

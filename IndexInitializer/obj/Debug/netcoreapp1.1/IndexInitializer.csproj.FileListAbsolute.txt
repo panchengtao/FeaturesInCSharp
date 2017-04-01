@@ -6,3 +6,12 @@ D:\visual studio 2017\Projects\FeatureInCSharp\IndexInitializer\bin\Debug\netcor
 D:\visual studio 2017\Projects\FeatureInCSharp\IndexInitializer\obj\Debug\netcoreapp1.1\IndexInitializer.AssemblyInfo.cs
 D:\visual studio 2017\Projects\FeatureInCSharp\IndexInitializer\obj\Debug\netcoreapp1.1\IndexInitializer.dll
 D:\visual studio 2017\Projects\FeatureInCSharp\IndexInitializer\obj\Debug\netcoreapp1.1\IndexInitializer.pdb
+D:\FeatureInCSharp\IndexInitializer\bin\Debug\netcoreapp1.1\IndexInitializer.deps.json
+D:\FeatureInCSharp\IndexInitializer\bin\Debug\netcoreapp1.1\IndexInitializer.runtimeconfig.json
+D:\FeatureInCSharp\IndexInitializer\bin\Debug\netcoreapp1.1\IndexInitializer.runtimeconfig.dev.json
+D:\FeatureInCSharp\IndexInitializer\bin\Debug\netcoreapp1.1\IndexInitializer.dll
+D:\FeatureInCSharp\IndexInitializer\bin\Debug\netcoreapp1.1\IndexInitializer.pdb
+D:\FeatureInCSharp\IndexInitializer\obj\Debug\netcoreapp1.1\IndexInitializer.AssemblyInfo.cs
+D:\FeatureInCSharp\IndexInitializer\obj\Debug\netcoreapp1.1\IndexInitializer.dll
+D:\FeatureInCSharp\IndexInitializer\obj\Debug\netcoreapp1.1\IndexInitializer.pdb
+D:\FeatureInCSharp\IndexInitializer\obj\Debug\netcoreapp1.1\IndexInitializer.csprojResolveAssemblyReference.cache
